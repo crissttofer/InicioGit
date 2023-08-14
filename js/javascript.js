@@ -1,0 +1,1 @@
+document.getElementById("parrafo").innerText="Hola a todos!!";
